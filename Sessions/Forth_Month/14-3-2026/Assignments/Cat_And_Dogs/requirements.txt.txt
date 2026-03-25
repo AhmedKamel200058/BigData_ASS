@@ -1,5 +1,0 @@
-TensorFlow==2.19.0
-Keras==3.13.2
-NumPy==2.0.2
-Pillow==11.3.0
-Gradio==5.50.0
